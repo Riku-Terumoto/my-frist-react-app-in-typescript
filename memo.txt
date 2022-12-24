@@ -1,0 +1,4 @@
+yarn startする前に下記環境変数を設定することでコンパイルエラーを防ぐ
+↓コマンド入力
+
+export NODE_OPTIONS=--openssl-legacy-provider
